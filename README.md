@@ -32,10 +32,11 @@ A **fully functional consultation request management system** built with **PHP, 
 ## 📁 File Structure
 
 your-website/
-├── consultation-form.php # Main public consultation form
-├── admin.php # Admin dashboard to manage applications
-├── config.php # Database connection
-├── database.sql # SQL schema to import
+├── index.php                # Main public consultation form
+├── admin.php                # Admin dashboard to manage applications
+├── config.php               # Database connection
+├── database.sql             # SQL schema to import
+
 
 ---
 
@@ -55,7 +56,7 @@ your-website/
 ### 1. Clone the Project
 
 ```bash
-git clone https://github.com/your-username/business-consultation-app.git
+git clone https://github.com/suvithan-lk/Business-Consultation-Application.git
 cd business-consultation-app
 2. Set Up the Database
 Import the SQL schema using phpMyAdmin or terminal:
@@ -75,7 +76,7 @@ $password = "";
 🔐 Admin Access
 File: admin.php
 
-Default Password: admin123
+# Default Password: admin123
 
 You can change the password directly in admin.php (line 11)
 
