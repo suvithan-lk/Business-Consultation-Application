@@ -78,27 +78,21 @@ File: admin.php
 
 # Default Password: admin123
 
-You can change the password directly in admin.php (line 11)
+You can change the password directly in admin.php (line 12)
 
-📸 Screenshots (Optional)
-Add UI screenshots of the consultation form and admin panel here.
 
 🔄 Future Features (Ideas)
 Email notifications after form submission
-
 Export as CSV or PDF
-
 Admin login system (session-based)
-
 File uploads (e.g., logo, documents)
-
 Google reCAPTCHA integration
+
 
 👤 Author
 Anantharasa Suvithan
-Founder, DigitXCode Pvt Ltd
 🌐 suvithan.com
-📧 hello@suvithan.com
+📧 suvithan.lk@gmail.com
 
 📃 License
 This project is open-source and available under the MIT License.
